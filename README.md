@@ -1,3 +1,3 @@
 # GIT & GITHUB - THE FULL COURSE
 
-This is an mail.
+This is an test.
